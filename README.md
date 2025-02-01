@@ -46,12 +46,3 @@ He/Him 👨💻
 
 **🔥 Quote of the Day**:  
 *"Learn to rest, not to quit. Progress is progress, no matter how small."*  
-
----
-
-**✨ GitHub Profile Style Tips**:  
-1. Tambahkan **badges** (dari [shields.io](https://shields.io/)) untuk skill atau sertifikasi.  
-2. Buat section **Projects** nanti kalau sudah ada repo analisis data/data visualisasi.  
-3. Pakai tema warna **biru-tech** (sesuai branding data analyst) atau sesuaikan dengan kesukaanmu!  
-
-Contoh *draft* lengkap bisa lihat [di sini](https://gist.github.com/). Mau dibantu lebih detail? 😊
